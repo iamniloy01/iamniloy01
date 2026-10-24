@@ -1,49 +1,41 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20visitors&color=0e75b6&style=flat" />
-</div>
+<h1 align="center">Hi 👋, I'm Niloy Chandra Barman</h1>
+<h3 align="center">A Mechanical Engineering student at AUST, Bangladesh, passionate about Robotics, Autonomous Systems, Control Engineering, and AI/ML.</h3>
 
-# Your Title Here (e.g. Robotics & AI Developer)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamniloy01&label=Profile%20views&color=0e75b6&style=flat" alt="iamniloy01" /> </p>
 
-## 📖 | About me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamniloy01" alt="iamniloy01" /></a> </p>
 
-Write 2-3 lines about yourself. What you study, what you are building, what you are passionate about.
+<p align="left"> <a href="https://twitter.com/iamniloy01" target="blank"><img src="https://img.shields.io/twitter/follow/iamniloy01?logo=twitter&style=for-the-badge" alt="iamniloy01" /></a> </p>
 
-## 📚 | Education
+- 🔭 I’m currently working on Autonomous robotics, machine learning algorithms, and engineering simulation projects [ML Algorithms](https://github.com/iamniloy01/Machine-Learning-Project.git)
 
-Your university / college name and subject.
+- 🌱 I’m currently learning **Python, C++, Machine Learning, Control Systems, ROS 2, OpenCV, SLAM, OpenFOAM, and AI for Robotics.**
 
-## 🏆 | Awards & Recognition
+- 👯 I’m looking to Autonomous mobile robots, robot perception, navigation, control systems, and AI-driven engineering research collaborate on **Autonomous Garbage Collecting Robot**
 
-- **2025:** Your award or participation here
-- **2024:** Another one here
+- 🤝 I’m looking for help with ROS 2, SLAM, sensor fusion, robot motion planning, reinforcement learning, and research paper development **Robotics Learning & Research**
 
-## 🔥 | My contribution streak
+- 👨‍💻 All of my projects are available at [https://github.com/iamniloy01](https://github.com/iamniloy01)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=default" />
-</div>
+- 💬 Ask me about **Mechanical Engineering, Python, Numerical Analysis, Machine Learning fundamentals and Robotics.**
 
-## ⭐ | GitHub Stats
+- 📫 How to reach me **iamniloy01@gmail.com**
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" />
-</div>
+- ⚡ Fun fact **I'm a Mechanical Engineering student working toward building intelligent autonomous robots that can perceive, make decisions, and interact with the real world.**
 
-## 🚀 | Featured Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamniloy01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamniloy01" height="30" width="40" /></a>
+<a href="https://fb.com/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamniloy01" height="30" width="40" /></a>
+<a href="https://instagram.com/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamniloy01" height="30" width="40" /></a>
+</p>
 
-| | |
-|---|---|
-| **Project 1 name**<br>Short description of the project.<br>**Tech:** Python, ROS2 | **Project 2 name**<br>Short description of the project.<br>**Tech:** Raspberry Pi, Python |
-| **Project 3 name**<br>Short description.<br>**Tech:** ... | **Project 4 name**<br>Short description.<br>**Tech:** ... |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## 🔬 | Research Experience
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamniloy01&show_icons=true&locale=en&layout=compact" alt="iamniloy01" /></p>
 
-- **Your role, Group name (2024-Present)**
-  What you worked on.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamniloy01&show_icons=true&locale=en" alt="iamniloy01" /></p>
 
-## 🛠️ | Languages, Frameworks, and Tools
-
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,php,fastapi,pytorch,nextjs,postgres,mongodb,mysql,git,github,docker" />
-
-**Last Updated:** October 2026
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamniloy01&" alt="iamniloy01" /></p>
