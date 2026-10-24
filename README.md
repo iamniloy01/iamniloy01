@@ -20,10 +20,7 @@
 
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=iamniloy01&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
-    alt="Profile views"
-  />
+  <img src="https://hits.sh/github.com/iamniloy01.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
 </p>
 
 
