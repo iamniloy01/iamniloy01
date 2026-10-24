@@ -148,11 +148,9 @@ Explore the implementation of machine learning fundamentals and optimization alg
 
 ### 📅 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamniloy01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamniloy01&theme=github&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ### 🏆 GitHub Trophies
 
