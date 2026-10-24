@@ -1,39 +1,196 @@
-<h1 align="center">Hi 👋, I'm Niloy Chandra Barman</h1>
-<h3 align="center">A Mechanical Engineering student at AUST, Bangladesh, passionate about Robotics, Autonomous Systems, Control Engineering, and AI/ML.</h3>
+ <!-- ═══════════════════ HEADER ═══════════════════ -->
 
+<div align="center">
 
+# Hi 👋, I'm Niloy Chandra Barman
 
-<p align="left"> <a href="https://twitter.com/iamniloy01" target="blank"><img src="https://img.shields.io/twitter/follow/iamniloy01?logo=twitter&style=for-the-badge" alt="iamniloy01" /></a> </p>
+### Mechanical Engineering Student | Robotics & Autonomous Systems | AI/ML
 
-- 🔭 I’m currently working on Autonomous robotics, machine learning algorithms, and engineering simulation projects [ML Algorithms](https://github.com/iamniloy01/Machine-Learning-Project.git)
-
-- 🌱 I’m currently learning **Python, C++, Machine Learning, Control Systems, ROS 2, OpenCV, SLAM, OpenFOAM, and AI for Robotics.**
-
-- 👯 I’m looking to Autonomous mobile robots, robot perception, navigation, control systems, and AI-driven engineering research collaborate on **Autonomous Garbage Collecting Robot**
-
-- 🤝 I’m looking for help with ROS 2, SLAM, sensor fusion, robot motion planning, reinforcement learning, and research paper development **Robotics Learning & Research**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamniloy01](https://github.com/iamniloy01)
-
-- 💬 Ask me about **Mechanical Engineering, Python, Numerical Analysis, Machine Learning fundamentals and Robotics.**
-
-- 📫 How to reach me **iamniloy01@gmail.com**
-
-- ⚡ Fun fact **I'm a Mechanical Engineering student working toward building intelligent autonomous robots that can perceive, make decisions, and interact with the real world.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamniloy01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamniloy01" height="30" width="40" /></a>
-<a href="https://fb.com/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamniloy01" height="30" width="40" /></a>
-<a href="https://instagram.com/iamniloy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamniloy01" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/iamniloy01">
+    <img src="https://img.shields.io/badge/GitHub-iamniloy01-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  <a href="https://linkedin.com/in/iamniloy01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:iamniloy01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=iamniloy01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamniloy01&show_icons=true&locale=en&layout=compact" alt="iamniloy01" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamniloy01&show_icons=true&locale=en" alt="iamniloy01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamniloy01&" alt="iamniloy01" /></p>
+## 👨‍💻 About Me
+
+I'm a Mechanical Engineering undergraduate at **Ahsanullah University of Science and Technology (AUST), Bangladesh**, interested in developing intelligent machines that can perceive their environment, make decisions, and interact with the real world.
+
+My interests lie at the intersection of mechanical engineering, robotics, control systems, and artificial intelligence.
+
+- 🔭 **Exploring:** Machine learning algorithms, autonomous robotics, and engineering simulation.
+- 🌱 **Learning:** Python, C++, control systems, ROS 2, computer vision, SLAM, and CFD.
+- 🤖 **Robotics goal:** Develop an autonomous garbage-collecting robot capable of detecting waste, navigating an environment, and collecting objects.
+- 🧠 **Research interests:** Robot perception, motion planning, sensor fusion, intelligent control, and AI-driven engineering.
+- 🛠️ **Engineering interests:** Numerical methods, computational mechanics, and OpenFOAM-based simulations.
+- 🤝 **Open to collaboration:** Robotics projects, machine learning, engineering research, and open-source development.
+- 💬 **Ask me about:** Mechanical engineering fundamentals, Python, numerical analysis, and machine learning basics.
+- 📫 **Email:** [iamniloy01@gmail.com](mailto:iamniloy01@gmail.com)
+
+> My goal is to combine mechanical engineering, control theory, and AI to build practical autonomous robotic systems.
+
+---
+
+## 🛠️ Languages, Tools & Technologies
+
+### Programming & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode" alt="Programming and development tools"/>
+</p>
+
+### AI, Machine Learning & Computer Vision
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI and computer vision tools"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+### Robotics & Control
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" alt="ROS 2"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Control_Systems-Engineering-1F6FEB?style=flat" alt="Control systems"/>
+</p>
+
+### Engineering & Simulation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logoColor=black" alt="ANSYS"/>
+  <img src="https://img.shields.io/badge/OpenFOAM-CFD-003B5C?style=flat" alt="OpenFOAM"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical_Methods-013243?style=flat&logo=numpy&logoColor=white" alt="Numerical methods"/>
+</p>
+
+*This section represents my learning and project interests as well as my tools; it does not imply expert-level proficiency in every technology.*
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/iamniloy01/Machine-Learning-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamniloy01&repo=Machine-Learning-Project&theme=tokyonight&hide_border=true" alt="Machine Learning Project"/>
+</a>
+<a href="https://github.com/iamniloy01/Numerical-Analysis-using-python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamniloy01&repo=Numerical-Analysis-using-python&theme=tokyonight&hide_border=true" alt="Numerical Analysis using Python"/>
+</a>
+
+</div>
+
+### 🤖 Autonomous Garbage-Collecting Robot
+
+**Goal:** Design an autonomous mobile robot that detects and collects waste objects.
+
+- 🎯 Object detection using computer vision and potentially YOLO.
+- 🧭 Autonomous navigation, mapping, and path planning.
+- 📷 Camera-based perception and object tracking.
+- ⚙️ Robot control, sensor integration, and collection mechanisms.
+- 🧪 Simulation and testing before physical implementation.
+
+**Planned technologies:** Python, OpenCV, ROS 2, SLAM, and robotics simulation.
+
+### 📊 Machine Learning from Scratch
+
+Explore the implementation of machine learning fundamentals and optimization algorithms, with an emphasis on understanding the mathematics behind the code.
+
+- Linear regression and gradient descent.
+- Stochastic and mini-batch gradient descent.
+- Data preprocessing, feature scaling, and model evaluation.
+- Numerical experiments using Python, NumPy, and Pandas.
+
+[Explore my repositories →](https://github.com/iamniloy01?tab=repositories)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamniloy01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamniloy01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=iamniloy01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+### 📅 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamniloy01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamniloy01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- This image requires the GitHub Actions workflow documented below. -->
+
+<img src="https://raw.githubusercontent.com/iamniloy01/iamniloy01/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/iamniloy01">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/iamniloy01">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/iamniloy01">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X"/>
+</a>
+<a href="https://fb.com/iamniloy01">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/iamniloy01">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building intelligent machines, one project at a time.
+
+*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+</div>
