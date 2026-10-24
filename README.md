@@ -154,6 +154,15 @@ Explore the implementation of machine learning fundamentals and optimization alg
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <img
+    src="https://raw.githubusercontent.com/iamniloy01/iamniloy01/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</div>
+
+
+<div align="center">
 
 <!-- This image requires the GitHub Actions workflow documented below. -->
 
