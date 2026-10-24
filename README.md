@@ -42,6 +42,15 @@ My interests lie at the intersection of mechanical engineering, robotics, contro
 > My goal is to combine mechanical engineering, control theory, and AI to build practical autonomous robotic systems.
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/iamniloy01/iamniloy01/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</div>
 
 ## 🛠️ Languages, Tools & Technologies
 
@@ -151,24 +160,9 @@ Explore the implementation of machine learning fundamentals and optimization alg
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/iamniloy01/iamniloy01/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</div>
 
 
-<div align="center">
 
-<!-- This image requires the GitHub Actions workflow documented below. -->
-
-<img src="https://raw.githubusercontent.com/iamniloy01/iamniloy01/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
-
-</div>
 
 ---
 
