@@ -146,13 +146,6 @@ Explore the implementation of machine learning fundamentals and optimization alg
 
 </div>
 
-### 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/iamniloy01" alt="GitHub contribution activity graph" />
-</p>
-
----
 
 
 
